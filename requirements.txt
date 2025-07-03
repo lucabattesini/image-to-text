@@ -1,1 +1,3 @@
 ocrmypdf
+pdfplumber
+Pillow
